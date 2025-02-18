@@ -28,7 +28,7 @@ whoami = [
 social = [
     "<br>",
     'Twitch      <a href="' + twitch + '" target="_blank">twitch/cocacordial' + "</a>",
-    'Substack     <a href="' + substack + '" target="_blank">substack.com/@adamwan1' + </a>',
+    'Substack     <a href="' + substack + '" target="_blank">substack.com/@adamwan1' + "</a>',
     'Github      <a href="' + github + '" target="_blank">github/c0rdial' + "</a>",
     'LinkTree     <a href="' + linktree + '" target="_blank">linktr.ee/wan4dam' + "</a>",
     "<br>"
