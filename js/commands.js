@@ -1,9 +1,9 @@
 // Global variables
-let password = "passw0rd";
+let password = "password";
 let twitch = "https://www.twitch.tv/cocacordial";
 let substack  = "https://substack.com/@adamwan1";
 let github = "https://github.com/c0rdial/";
-let email = 'mailto:wmadam@proton.me';
+let email = "mailto:wmadam@proton.me";
 let linktree = "https://linktr.ee/wan4dam";
 
 whois = [
@@ -65,13 +65,14 @@ help = [
 
 banner = [
     '<span class="index">Wan Adam (Cordial) Not A Corporation. All rights reserved.</span>',
-    "                          .   oooo         o8o           ",
-    "                        .o8   `888         `'\"'           ",
-    "  .ooooo.   ooo. .oo.  .o888oo  888 .oo.   oooo   .oooo.o ",
-    " d88' `88b  `888P\"Y88b   888    888P\"Y88b  `888  d88(  \"8 ",
-    " 888   888   888   888   888    888   888   888  `\"Y88b.  ",
-    " 888   888   888   888   888 .  888   888   888  o.  )88b ",
-    " `Y8bod8P'  o888o o888o  \"888\" o888o o888o o888o 8\"\"888P'  "
+   
+    "    ██╗    ██╗ █████╗ ███╗   ██╗     █████╗ ██████╗  █████╗ ███╗   ███╗",
+    "    ██║    ██║██╔══██╗████╗  ██║    ██╔══██╗██╔══██╗██╔══██╗████╗ ████║",
+    "    ██║ █╗ ██║███████║██╔██╗ ██║    ███████║██║  ██║███████║██╔████╔██║",
+    "    ██║███╗██║██╔══██║██║╚██╗██║    ██╔══██║██║  ██║██╔══██║██║╚██╔╝██║",
+    "    ╚███╔███╔╝██║  ██║██║ ╚████║    ██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║",
+    "     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝",
+
 ];
 
                                                                        
