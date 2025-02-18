@@ -6,7 +6,7 @@ let textarea = document.getElementById("texter");
 let terminal = document.getElementById("terminal");
 
 let git = 0;
-id = "visitor@wanadam:~$ "
+id = "visitor@a1:~$ "
 let pw = false;
 let pwd = false;
 let animation = true;
