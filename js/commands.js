@@ -1,10 +1,10 @@
 // Global variables
 let password = "passw0rd";
 let twitch = "https://www.twitch.tv/cocacordial";
-let resume  = "https://drive.google.com/file/d/1oORdqyIJ7aDfHCyU3YqamFn9KkMz-Y6i/view";
+let substack  = "https://substack.com/@adamwan1";
 let github = "https://github.com/c0rdial/";
-let email = 'mailto:wnadam96@gmail.com';
-let otherSite = "https://wanadam-portfolio.vercel.app/"
+let email = 'mailto:wmadam@proton.me';
+let linktree = "https://linktr.ee/wan4dam";
 
 whois = [
    "<br>",
@@ -30,7 +30,7 @@ social = [
     'Twitch      <a href="' + twitch + '" target="_blank">twitch/cocacordial' + "</a>",
     'Substack     <a href="' + substack + '" target="_blank">substack.com/@adamwan1' + </a>', 
     'Github      <a href="' + github + '" target="_blank">github/c0rdial' + "</a>",
-    'LinkTree     <a href="' + github + '" target="_blank">linktr.ee/wan4dam' + "</a>",
+    'LinkTree     <a href="' + linktree + '" target="_blank">linktr.ee/wan4dam' + "</a>",
     "<br>"
 ];
 
@@ -77,7 +77,7 @@ banner = [
     
                                                                                               
 
-    "                                                                                  © 2023",
+    "                                                                                  © 2025",
     '<span class="color2">Welcome to my interactive web terminal.</span>',
     "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
 ];
