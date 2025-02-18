@@ -6,7 +6,7 @@ let textarea = document.getElementById("texter");
 let terminal = document.getElementById("terminal");
 
 let git = 0;
-id = "visitor@a1:~$ "
+let id = "visitor@a1:~$ "
 let pw = false;
 let pwd = false;
 let animation = true;
@@ -176,7 +176,7 @@ function commander(cmd) {
             break;
         case "hire-me":
             admin = true;
-            id = "admin@jasonzhang.com:~$ ";
+            id = "admin@wanadam.xyz:~$ ";
             liner.classList.add("admin")
             addLine("Welcome, admin...", "color2", 0);
             break;
