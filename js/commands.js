@@ -1,5 +1,5 @@
 // Global variables
-let password = "password";
+let password = "passw0rd";
 let twitch = "https://www.twitch.tv/cocacordial";
 let substack  = "https://substack.com/@adamwan1";
 let github = "https://github.com/c0rdial/";
@@ -10,9 +10,9 @@ whois = [
    "<br>",
     "Hey, I'm Adam!",
     "I am a software engineer with experience in FinTech, Game Development, and AI,",
-    "building solutions that blend technology with creativity.",
+    "building solutions that blend technology + art.",
     "Beyond code, I work in the creative space—writing, curating art and music,",
-    "managing events, and crafting immersive experiences.",
+    "organising events, and crafting new experiences.",
     "I'm currently transitioning into AI while building my own startup focused on creative coding,",
     "exploring the intersection of computation, design, and storytelling.",
     "I also love the outdoors—yoga, swimming, and anything that gets me moving!",
@@ -59,7 +59,6 @@ help = [
     '<span class="command">banner</span>         Display the header',
     '<span class="command">anim</span>           Toggle text animation',
     '<span class="command">mode</span>           Toggle light/dark mode',
-    '<span class="command">other</span>          Visit my other site',
     "<br>",
 ];
 
