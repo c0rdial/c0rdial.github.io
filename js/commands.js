@@ -7,12 +7,15 @@ let email = 'mailto:wnadam96@gmail.com';
 let otherSite = "https://wanadam-portfolio.vercel.app/"
 
 whois = [
-    "<br>",
+   "<br>",
     "Hey, I'm Adam!",
-    "I'm a Computer Science at UOW Malaysia , data scientist, and software engineer",
-    "who's learning to build engaging projects like this one.",
-    "I'm currently studying AI and ML, software design, and various other captivating fields",
-    "in the computer/data science space.",
+    "I am a software engineer with experience in FinTech, Game Development, and AI,",
+    "building solutions that blend technology with creativity.",
+    "Beyond code, I work in the creative space—writing, curating art and music,",
+    "managing events, and crafting immersive experiences.",
+    "I'm currently transitioning into AI while building my own startup focused on creative coding,",
+    "exploring the intersection of computation, design, and storytelling.",
+    "I also love the outdoors—yoga, swimming, and anything that gets me moving!",
     "<br>"
 ];
 
@@ -25,8 +28,9 @@ whoami = [
 social = [
     "<br>",
     'Twitch      <a href="' + twitch + '" target="_blank">twitch/cocacordial' + "</a>",
-    'Resume      <a href="' + resume + '" target="_blank">Resume' + '</a>',
-    'github      <a href="' + github + '" target="_blank">github/c0rdial' + "</a>",
+    'Substack     <a href="' + substack + '" target="_blank"></a>', 
+    'Github      <a href="' + github + '" target="_blank">github/c0rdial' + "</a>",
+    'LinkTree     <a href="' + github + '" target="_blank">https://linktr.ee/wan4dam' + "</a>",
     "<br>"
 ];
 
