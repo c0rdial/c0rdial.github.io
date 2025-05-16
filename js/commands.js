@@ -28,7 +28,7 @@ whoami = [
 social = [
     "<br>",
     'Twitch      <a href="' + twitch + '" target="_blank">twitch/cocacordial' + "</a>",
-    'Substack     <a href="' + substack + '" target="_blank">substack.com/@adamwan1' + "</a>',
+    'Substack     <a href="' + substack + '" target="_blank">substack.com/@adamwan1' + "</a>",
     'Github      <a href="' + github + '" target="_blank">github/c0rdial' + "</a>",
     'Creative Direction    <a href="' + linktree + '" target="_blank">linktr.ee/wan4dam' + "</a>",
     "<br>"
@@ -71,13 +71,6 @@ banner = [
     "    ██║███╗██║██╔══██║██║╚██╗██║    ██╔══██║██║  ██║██╔══██║██║╚██╔╝██║",
     "    ╚███╔███╔╝██║  ██║██║ ╚████║    ██║  ██║██████╔╝██║  ██║██║ ╚═╝ ██║",
     "     ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝",
-
-];
-
-                                                                       
-    
-                                                                                              
-
     "                                                                                  © 2025",
     '<span class="color2">Welcome to my interactive web terminal.</span>',
     "<span class=\"color2\">For a list of available commands, type</span> <span class=\"command\">'help'</span><span class=\"color2\">.</span>",
